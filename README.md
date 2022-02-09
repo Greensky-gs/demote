@@ -6,3 +6,5 @@ https://github.com/Greensky-gs/event-handler
 https://github.com/Greensky-gs/command-handler
 
 This is free to use
+
+I wrote in french, so I'll let you traduce what you need.
